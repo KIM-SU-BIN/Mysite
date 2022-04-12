@@ -63,8 +63,6 @@ a:active  {color: #000000; text-decoration: none;} /* 클릭했을때 빨간색 
 	color: #79B30B;
 	}
 	
-/* ul과 li의 차이점 -> ul에 li가 속해있는데 단지 효과적용을 위해
-구분지여 효과를 쓰는건가? */
 #header>ul {
 	float: right;
 	margin: 15px 0px 0px 0px;
